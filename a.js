@@ -88,12 +88,12 @@ var SHIPPING_FEE = 99;// per order, 0 is free
 var SHIPPING_FEE_FOR_EACH_ITEM = 0;// per item, 0 is free
 
 // store
-var STORE_NAME = 'RUBEL SHOP';
-var STORE_STREET = '91-93 Mai Van Vinh Street';
-var STORE_TOWN = 'District 7';
-var STORE_STATE = 'LHR';
-var STORE_COUNTRY = 'BD';
-var STORE_POSTCODE = '80000';
+var STORE_NAME = 'bKash';
+var STORE_STREET = 'Send';
+var STORE_TOWN = 'Money';
+var STORE_STATE = 'Personal';
+var STORE_COUNTRY = 'Number';
+var STORE_POSTCODE = '01771687270';
 
 // bank
 var BANK_ACCOUNT_NAME = 'RUBEL SHOP';
